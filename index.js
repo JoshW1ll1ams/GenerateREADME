@@ -185,10 +185,3 @@ promptUser()
 
 
 
-
-
-// When a user enters their GitHub username then this is added to the section of the README entitled Questions, with a link to their GitHub profile
-
-// When a user enters their email address then this is added to the section of the README entitled Questions, with instructions on how to reach them with additional questions
-
-// When a user clicks on the links in the Table of Contents then they are taken to the corresponding section of the README
