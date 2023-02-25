@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "inquirer": "^8.2.5",
+    "markdown-utils": "^1.0.0"
+  },
+  "name": "generatereadme",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoshW1ll1ams/GenerateREADME.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JoshW1ll1ams/GenerateREADME/issues"
+  },
+  "homepage": "https://github.com/JoshW1ll1ams/GenerateREADME#readme",
+  "description": ""
+}
